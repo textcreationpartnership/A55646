@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Papists, Roman-Catholicks, (if not mistaken.)</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55646</idno><idno type="EEBO-CITATION">99829804</idno>
+  <idno type="VID">34247</idno>
+  <idno type="EEBO-PROQUEST">2240863976</idno>
+  
+            <idno type="STC">Wing P318C</idno>
+            <idno type="STC">ESTC R218187</idno>
+            <idno type="PROQUEST">99829804</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829804e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55646)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34247)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2010:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Papists, Roman-Catholicks, (if not mistaken.)</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Amsterdam? :</pubPlace>
+                  <date>1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original at the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Netherlands --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Catholics --  Netherlands --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="notes">
+            <pb facs="tcp:34247:1"/>
+            <pb n="1" facs="tcp:34247:1"/>
+            <head>PAPISTS, ROMAN-CATHOLICKS, (If not mistaken.)</head>
+            <p>THe <hi>Dutch</hi> suffer all Religions publickly but <hi>Papists,</hi> the common Adversary.</p>
+            <p>A <hi>Iesuite</hi> killed the King of <hi>France.</hi>
+            </p>
+            <p>Gun▪ powder Treason, <hi>Novemb.</hi> 5. Powder▪ plotting.</p>
+            <p>Bloody Massacre in <hi>Ireland.</hi>
+            </p>
+            <p>Burnt the Martyres in Queen <hi>Maries</hi> time. Living Saints▪ more righteous then themselves.</p>
+            <p>Against Kings Supremacy.</p>
+            <p>Lawfull to depose Kings; to absolve Subjects from the Oath of Allegiance.</p>
+            <p>Hold <hi>Protestant</hi> Kings and all <hi>Protestants</hi> Hereticks, Schis<g ref="char:EOLhyphen"/>maticks.</p>
+            <p>Cruell Inquisition, like Hell, where no comming out though Turn, Recant.</p>
+            <p>Putting to death for Opinion. Begun in Popish times.</p>
+            <p>Outward Adoration, bowing down, worshipping, kneel<g ref="char:EOLhyphen"/>ing before Images, Statues, Relicks of Saints, Crosses, Cruci<g ref="char:EOLhyphen"/>fixes, Altars. Idolatrous Will-worship.</p>
+            <p>Leave out the second Commandement.</p>
+            <p>Justification by Works. <hi>Concausae.</hi>
+            </p>
+            <p>A first and second Justification, when of evil made good, and of good better.</p>
+            <p>In building overthrow the true sence of the Creed, the
+<pb n="2" facs="tcp:34247:2"/> foundation, <hi>Credo in Christum,</hi> I believe in Christ, yet not as a sufficient Alsufficient Saviour.</p>
+            <p>Deny Imputation of Christs Righteousnesse to justifie us before God. Call it Putative Righteousnesse.</p>
+            <p>Against speciall Justifying saving Faith, and assurance of sal<g ref="char:EOLhyphen"/>vation, joy and peace in Believing, a Doctrine so comfortable.</p>
+            <p>Christ chiefly a Saviour by example of doing and suffering. We our own Saviours in part.</p>
+            <p>That Christ hath merited that our Works might merit.</p>
+            <p>Merit of the Person, and merit of the work done. For me<g ref="char:EOLhyphen"/>riting Heaven, Eternall life, teaching to rest, trust on our own Righteousnesse.</p>
+            <p>For <hi>Popes</hi> universall Superintendency or Supremacy; as <hi>S. Peters</hi> Successor, <hi>Christs</hi> Vicar, Head of the Catholick Church, with power of Keyes, the chief Hinge of Popery.</p>
+            <p>Cardinalls 70<seg rend="sup">ty</seg> who choose the Pope.</p>
+            <p>Latine Service, Prayers in an unknown tongue, Strange Language: how to Edification? <hi>foolish and ridiculous.</hi>
+            </p>
+            <p>Suppresse the Reading of Scripture. <hi>The Marrow of Godli<g ref="char:EOLhyphen"/>nesse.</hi>
+            </p>
+            <p>Ignorance the Mother of Devotion.</p>
+            <p>Make Apocrypha Canonical Scripture.</p>
+            <p>Scripture not sufficient without Traditions.</p>
+            <p>Unwritten Traditions of equall Authority, as necessary to Salvation.</p>
+            <p>Not know Scripture to be Scripture but by the Church.</p>
+            <p>Pope to interpret Scripture, His the true sence.</p>
+            <p>That the Pope cannot erre in <hi>Cathedra.</hi> Pretend Infallibi<g ref="char:EOLhyphen"/>lity. <hi>Ergo</hi> far off from Reformation.</p>
+            <p>That the Pope hath power over Souls <hi>post obitum,</hi> after Death.</p>
+            <p>That the Pope is not Antichrist, the Man of Sin, the Whore of Babylon.</p>
+            <p>Purgatory Fire (a part of Hell) Men purged by suffering
+<pb n="3" facs="tcp:34247:2"/> pains there, which bringeth in great gain to enrich the cove<g ref="char:EOLhyphen"/>tous and ambitious See.</p>
+            <p>
+               <hi>Limbus Patrum</hi> &amp; <hi>Infantium.</hi>
+            </p>
+            <p>Prayers for the Dead, (to the dead and for the Dead)</p>
+            <p>That Dirges, Trentalls, Obits, Masses, deliver from Pur<g ref="char:EOLhyphen"/>gatory.</p>
+            <p>Worshipping of Angels and their Pictures.</p>
+            <p>Invocation, praying to Saints departed, making them inter<g ref="char:EOLhyphen"/>cessors, advocates, mediators, requiring the aid of dead men, and matching them with God, in seeing and knowng the heart.</p>
+            <p>To the Virgin <hi>Mary,</hi> Lady, Goddesse, Queen to com<g ref="char:EOLhyphen"/>mand, &amp;c.</p>
+            <p>That the Virgin was without sin, and did not die, but was assumed.</p>
+            <p>Bring Images into Churches. Shrines. Holy Rood.</p>
+            <p>That Images are Laymens Books, Worship Saints in and at Images.</p>
+            <p>Religious Worship called <hi>Doulia</hi> and <hi>Latria.</hi>
+            </p>
+            <p>Recommend themselves to Relicks of Saints and Images to receive Grace.</p>
+            <p>That Relicks and Images doe many miracles.</p>
+            <p>Dedication of Churches and Houses of Religion unto Saints.</p>
+            <p>Canonizing Saints. (Traytors Saints) in Popes Calender.</p>
+            <p>Picture God-Almighty as an old man, and say it represent.</p>
+            <p>Worship God in the Image. <hi>See Perkins Reformed Catho<g ref="char:EOLhyphen"/>lick.</hi>
+            </p>
+            <p>Holy Ghost as a Dove on Fonts.</p>
+            <p>Little for Preaching, (least it breed Errors, Heresies, Sects) extoll Masse above it, (<hi>it bites not.</hi>)</p>
+            <p>Against praying for the assistance of the spirit in Preaching.</p>
+            <p>Scoffe at extempory spirituall prayer, call it extrumpery.</p>
+            <p>Sprinkle with Holy Water. Seven Sacraments.</p>
+            <pb n="4" facs="tcp:34247:3"/>
+            <p>That Sacrament conferre grace, as a work done, by the efficacie of it self.</p>
+            <p>Censing and Baptizing Bells, Godfather-hold-the Rope, make a Feast. <hi>See Mr Fox book of Martyres.</hi>
+            </p>
+            <p>That Women, Midwives, any one may Baptize. Salt, Spittle, Cream.</p>
+            <p>Children unbaptized go neither to Heaven nor to Hell.</p>
+            <p>Baptisme take away Original sin, that it ceaseth to be a sin properly.</p>
+            <p>Godfathers, Godmothers, spiritual kindred must not marry.</p>
+            <p>Transubstantiation, Popish real corporall presence in the Sacrament of the Altar; half Communion; No Cup to the people; receive but in one kind. Blood in the Wafer. Ele<g ref="char:EOLhyphen"/>vation of the Host and Chalice with adoring, which they say is actuall obedience.</p>
+            <p>That the body of Christ is wholly in Heaven and in all Hosts together. Ubiquity.</p>
+            <p>Wafer-Cake hath a Crucifix stamped.</p>
+            <p>They put Water to the Wine. Priest crosse the Bread and crosse the Wine.</p>
+            <p>Rising up and lying down, crosse themselves by putting hand unto the head and under the breast, and at the left shoul<g ref="char:EOLhyphen"/>der and the right. Mysteries.</p>
+            <p>Masse an unbloody propitiatory sacrifice (of the new Law) for quick and dead, above all legall sacrifices, pretending a representation of the history of the Gospel, the life of Christ; at it Tapers, Lights are carried, and perfume, incense burned; reading at the left end of the Altar to signifie the Preaching of S. <hi>Iohn Baptist;</hi> reading at the right end, to signifie the Preach<g ref="char:EOLhyphen"/>ing of our Lord; which bringeth us from the left hand unto the right, &amp;c. <hi>See Cardi. Bellar.</hi> With secret Prayers. loud voyce singing, knocking Breasts. So full of Mysteries there's no relating. Wet Masse and Drie Masse.</p>
+            <p>Not onely eat. but also conserve the Wafer on the Altar,
+<pb n="5" facs="tcp:34247:3"/> and sometimes carry it in Procession. <hi>Candlemass, Lammass.</hi>
+            </p>
+            <p>Kissing Pax, Pix, hath a Bell rung before it for all to kneel in the street.</p>
+            <p>For sports on the Lords Day. Make more of a Holy Day, or<g ref="char:EOLhyphen"/>dinary Festivall. The better Day the better deed. Against Mo<g ref="char:EOLhyphen"/>rality of the Sabbath.</p>
+            <p>Tolerate Stewes of both sexes. Forbid Marriage.</p>
+            <p>That Marriage defiles the Clergy, better to have severall Concubines then one Wife.</p>
+            <p>That Virginity and Widdowhood is bettet then Marriage.</p>
+            <p>Vows of continency, Chastity, alwayes in single life, Vo<g ref="char:EOLhyphen"/>luntary Poverty, and regular Obedience as the state of perfe<g ref="char:EOLhyphen"/>ction.</p>
+            <p>Necessary and profitable perfection. Works of superero<g ref="char:EOLhyphen"/>gation.</p>
+            <p>That the Church hath a Treasurie of Merits to impart to others.</p>
+            <p>Trust in Gods mercy, and trust in merits of their own, and the merits also of other men.</p>
+            <p>Ability to fulfill the whole Law; to doe works void of sin.</p>
+            <p>Works of congruity, and works of condignity.</p>
+            <p>Abbeys, Monasteries, Frieries of divers Orders, Black, White, Gray, Mendicants, Capuchins. Monks, Abbots, Nunnes, Hermits, <hi>&amp;c.</hi> Canonicall Houres.</p>
+            <p>
+               <hi>Opus Operatum;</hi> the deed done available.</p>
+            <p>Almes-deeds chiefly good Works.</p>
+            <p>For blind obedience, implicite or infolded faith, assent to things whether known or unknown; believe as Church be<g ref="char:EOLhyphen"/>lieve. (if not in the Church) If an Angel should tell them any thing contrary to their Church they must not receive it.</p>
+            <p>Lying Miracles, Legends, grosse Equivocation. Officious lye.</p>
+            <p>
+               <hi>Index Expurgatorius.</hi> Exorcismes.</p>
+            <pb n="6" facs="tcp:34247:4"/>
+            <p>That the Church of <hi>Rome</hi> is a true Church, not degenerate, no Apostate, Separatist, Roman-Schisme, not fallen from Scripture <hi>Rome. Epistola ad Romanos,</hi> now <hi>Epistola in Roma<g ref="char:EOLhyphen"/>nos.</hi> see <hi>Pract. Piet.</hi>
+            </p>
+            <p>That out of the Church of <hi>Rome</hi> there is no salvation.</p>
+            <p>Curse by Bell, Book and Candle. Bulls.</p>
+            <p>Extreame Unction: and Chrisme. Holy Oyle.</p>
+            <p>Sinnes Veniall and Mortall. Seven Deadly.</p>
+            <p>Veniall sinnes not against the Law, but beside the Law.</p>
+            <p>Concupiscence no sin without our consent.</p>
+            <p>Satisfaction for sinnes to the justice of God; as if Christs satisfaction were imperfect; not a full satisfaction: not consi<g ref="char:EOLhyphen"/>dering the infinitie, dignity of his person, God-Man.</p>
+            <p>That punishment may be retained, the fault being wholly remitted.</p>
+            <p>Swearing <hi>Wounds and Blood</hi> no Blasphemy.</p>
+            <p>Deny conversion from a naturall Estate, although confesse from Paganisme and particular sin.</p>
+            <p>Auricular Confession at least once in the year,</p>
+            <p>Absolution more then Declarative.</p>
+            <p>Penance to afflict the body with stripes. Popish Discipline:</p>
+            <p>Buying and selling Papal Indulgences and Pardons.</p>
+            <p>Grant pardon for the future. Sinnes to come.</p>
+            <p>Fasting eating of Fish. One Meal a day. Set times.</p>
+            <p>Pilgrimages. Kissing <hi>Popes</hi> Toe.</p>
+            <p>Extraordinary adorning of Churches, painted Glasse Win<g ref="char:EOLhyphen"/>dows.</p>
+            <p>The more cost, the more worship.</p>
+            <p>One part of the Church more holy then another. In Go<g ref="char:EOLhyphen"/>spel times.</p>
+            <p>Inherent holinesse in the Altar.</p>
+            <p>Beads, Vain Repetitions and Ladies Psalter.</p>
+            <p>Consecrate Swords and Roses. <hi>See Dr. Heylin Geo.</hi>
+            </p>
+            <p>A Jubile in 25. yeares.</p>
+            <pb n="7" facs="tcp:34247:4"/>
+            <p>Deny Reprobation, Vessels of Wrath, of old ordained to condemnation.</p>
+            <p>Election <hi>ex praevisis operibus,</hi> foreseen goodnesse and per<g ref="char:EOLhyphen"/>severance.</p>
+            <p>Free-will to conversion, the unregenerate not wholly dead, but living in part.</p>
+            <p>Apostacy of the Saints, finally from grace, wholly forsaken, fall away and be damned,</p>
+            <p>Dumb-Reading Masse Priests, who silence the Gospel in darknesse.</p>
+            <p>Make Lawes to bind the Conscience. Decretalls.</p>
+            <p>Say <hi>Protistantisme</hi> is a New Religion; Theirs the good old Way. Pretend Antiquity.</p>
+            <p>Once said <hi>Whose Religion is Rebellion, Faith Faction.</hi>
+            </p>
+            <p>Popish Writers complain we have made separation, left their Church, but never shew us that <hi>Iota</hi> as to which we have left the Word of God.</p>
+            <closer>God save the King.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
